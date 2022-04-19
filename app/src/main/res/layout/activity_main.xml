@@ -9,8 +9,7 @@
     android:paddingLeft="16dp"
     android:paddingBottom="16dp"
     android:gravity="top|center"
-    android:background="#2C2424"
-    >
+    android:background="#2C2424">
 
     <HorizontalScrollView
         android:layout_width="match_parent"
