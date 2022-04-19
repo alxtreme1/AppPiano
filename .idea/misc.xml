@@ -5,6 +5,9 @@
       <map>
         <entry key="..\:/Users/T-Gamer/AndroidStudioProjects/AppPiano/app/src/main/res/drawable/black_shadow.xml" value="0.2525" />
         <entry key="..\:/Users/T-Gamer/AndroidStudioProjects/AppPiano/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/T-Gamer/AndroidStudioProjects/AppPiano/app/src/main/res/drawable/key_normal.xml" value="0.1935" />
+        <entry key="..\:/Users/T-Gamer/AndroidStudioProjects/AppPiano/app/src/main/res/drawable/key_pressed.xml" value="0.1935" />
+        <entry key="..\:/Users/T-Gamer/AndroidStudioProjects/AppPiano/app/src/main/res/drawable/pressed_and_normal_selector.xml" value="0.1935" />
         <entry key="..\:/Users/T-Gamer/AndroidStudioProjects/AppPiano/app/src/main/res/layout/activity_main.xml" value="0.17617753623188406" />
       </map>
     </option>
