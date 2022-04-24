@@ -1,2 +1,2 @@
 # AppPiano
-Piano app for test
+Piano app for test using Android Studio
